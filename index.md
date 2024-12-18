@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to My Website
 
 Hello! I’m **[Your Name]**, a [Your Profession/Field].  
