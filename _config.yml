@@ -1,4 +1,15 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Drew Levitt
+# Site settings
+title: "Drew Levitt"
+description: "Personal Website"
+baseurl: ""
+url: "https://Drelev.github.io"
+
+# Theme settings
+theme: jekyll-theme-minimal
+
+# Optional settings
+author: Drew Levitt
+social_links:
+  - https://github.com/yourusername
+  - https://linkedin.com/in/yourprofile
+  - https://twitter.com/yourhandle
